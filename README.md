@@ -162,8 +162,6 @@ RAZORPAY_API_KEY=your_razorpay_api_key
 npm run dev
 ```
 
----
-
  
 ---
 
